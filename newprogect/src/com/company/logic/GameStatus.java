@@ -20,5 +20,37 @@ public enum GameStatus {
     /*
         Попить. Забить на боли
      */
-    DEAD
+    DEAD,
+    /*
+       да-да
+     */
+    NEPOMOGLO,
+    /*
+       да-да
+     */
+    GO_TO_HOSPITAL,
+    /*
+        звонок
+    */
+    ALLO,
+    /*
+        поездка
+    */
+    POLETELI,
+     /*
+        приехал
+    */
+    PRIEHALI,
+    /*
+        нерабочая кнопка
+    */
+    NULL,
+    /*
+        побег
+    */
+    POBEG,
+     /*
+        вас поймали
+    */
+    SANITAR
 }

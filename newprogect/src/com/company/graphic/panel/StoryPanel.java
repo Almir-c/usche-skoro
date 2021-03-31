@@ -8,7 +8,7 @@ import java.awt.*;
  */
 public class StoryPanel extends JPanel {
     //Текст диалогов
-    JLabel textLabel = new JLabel("Введите что-нибудь df.df.f");
+    JLabel textLabel = new JLabel("Нажмите на кнопку <<Начать>>, чтобы игра началась");
 
     public StoryPanel() {
         this.setSize(700, 300);
